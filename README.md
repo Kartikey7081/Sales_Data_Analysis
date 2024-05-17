@@ -21,9 +21,6 @@ This project uses Pandas ,seabornand Matplotlib to answer basic sales related qu
 
 - Which products category has most demand by customers
 
-
-
-
 ## Documentation
 
 [panda](https://pandas.pydata.org/docs/)
@@ -33,9 +30,4 @@ This project uses Pandas ,seabornand Matplotlib to answer basic sales related qu
 
 - [@Kartikey7081](https://github.com/Kartikey7081)
 
-Documentation
-pandas
 
-Matplot
-
-Authors# Sales_Data_Analysis
